@@ -32,8 +32,6 @@
             <artifactId>tomcat-embed-jasper</artifactId>
             <!--<scope>provided</scope>-->
         </dependency>
-
-        <!-- test -->
     </dependencies>
     <build>
         <plugins>
